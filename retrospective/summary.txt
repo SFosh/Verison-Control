@@ -1,0 +1,12 @@
+summarize how the merge conflict in part E1 was resolved
+
+The merge conflict was resolved by selecting which version of the README.md file to use in the Atom text editor. The editor provides the option to use a particular version simply by clicking the version. As noted in the screenshot.
+
+
+describe the three changes that you made in part C
+
+The first change: de3374d9324da0ca27c9d7cf67e176fafd4696e5 was to the index.html file. Line 74 was changed from a <h2> to an <h1>. Also, text was added on line 75 "Like so many services!"
+
+The second change: 3b7c0ebdf16a418f8009297d692ec470873f6eaa was to customers.html. Line 42 was changed from a <p> tag to a <h1> tag. Line 42 also had the text changed from "We are very happy with them." to "We are very unhappy with them.".
+
+The third change: 6cbd54bac0927371cecc096887b1ae54f6d76c37 was to vision.html. The title on line 5 was changed to "Night Owl" from "Test".
