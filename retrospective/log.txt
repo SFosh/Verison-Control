@@ -1,0 +1,242 @@
+commit c13e68ad7f4adfbb1b7d7c80b6fee87bf6150cb2
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 13:15:33 2023 -0600
+
+    main merged with readme
+
+commit 58dd5561e7825807f2b9d26d4e4cd98094860eaa
+Merge: 419a270 1e0f6a2
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 13:11:26 2023 -0600
+
+    Fixes merge conflict using manual edits in text editor
+
+commit 419a270de436d7258ba9dd80806699d9db578f3a
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 12:51:34 2023 -0600
+
+    Removes text 'Git version'
+
+commit 1e0f6a204a22577f90b6a47470aa868f28fc0646
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 12:50:35 2023 -0600
+
+    Reomves text 'Student ID'
+
+commit eb3a42e26d75cdb684e7937c95536c02ee04f636
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 12:46:45 2023 -0600
+
+    Reverts README.md to git version
+
+commit 5ee22565bf7cae31ef5257e536c998177a34e264
+Merge: b8f4e9d 38a526b
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 12:39:29 2023 -0600
+
+    Merge readme with main
+
+commit 38a526b06458d0c136fc5f6d372a014dbce9bb1d
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 12:36:53 2023 -0600
+
+    Adds Student ID to readme branch again
+
+commit b8f4e9d8270a450f0ccd007a7d14d99f94854b97
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 12:30:23 2023 -0600
+
+    Fix version issue
+
+commit e71f3c0430d79435621228589408ad0773bdeeee
+Merge: 25c2755 df2588f
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Mon Apr 10 12:25:14 2023 -0600
+
+    Merge conflict with working copy and repo
+
+commit 25c2755e25782b4ea97693de9bc8871e44bf2da1
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Sun Apr 9 22:26:47 2023 -0600
+
+    Adds git version a second time
+
+commit df2588fadf173c87efc8dbaf627d65097eadeaf4
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 04:16:09 2023 +0000
+
+    Update README.md to contain git version
+
+commit 7028cbe88c51ab3e5af30fb938a8fff1b1245264
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Sun Apr 9 22:05:58 2023 -0600
+
+    Adds Student ID to README
+
+commit 6cbd54bac0927371cecc096887b1ae54f6d76c37
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Sun Apr 9 21:53:42 2023 -0600
+
+    Change title from 'Test' to 'Night Owl'
+
+commit 3b7c0ebdf16a418f8009297d692ec470873f6eaa
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Sun Apr 9 21:52:57 2023 -0600
+
+    Change h2 to h1 and edit text
+
+commit de3374d9324da0ca27c9d7cf67e176fafd4696e5
+Author: shane <47440607+CodeFyysh@users.noreply.github.com>
+Date:   Sun Apr 9 21:52:12 2023 -0600
+
+    Change h2 to h1 and add text
+
+commit 491eb1e4130fcdab85673ac1cfdfeb83584e86b5
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:06:58 2023 +0000
+
+    Upload New File
+
+commit ee978cb8c1a8539d42ff94f8fdcfb8e750581371
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:06:47 2023 +0000
+
+    Upload New File
+
+commit 6eaa81bf67ac016c24ca28b1872d47e6eabec312
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:06:35 2023 +0000
+
+    Upload New File
+
+commit 704b6b8de44579d37d3467e2c7d7e785c1a23119
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:06:01 2023 +0000
+
+    Upload New File
+
+commit edea26003f27a8f70fa2480e6b1b3552a619d4d2
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:05:50 2023 +0000
+
+    Upload New File
+
+commit 6c7e063d0664a6ed3c10711c3716102ef1031fd6
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:05:38 2023 +0000
+
+    Upload New File
+
+commit cc5982559251134915b686d9178ad6702c8758a8
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:05:25 2023 +0000
+
+    Upload New File
+
+commit e00c59b4f6edcbdf0a8ae7cf18c8dff3746f9cfc
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:05:07 2023 +0000
+
+    Upload New File
+
+commit e1ad66a7a831169fc39e38a45a38504feddd344a
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:05:00 2023 +0000
+
+    Add a new directory for JavaScript
+
+commit cad1a24e21139ddaca09db9b95d3819956f7c057
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:04:31 2023 +0000
+
+    Upload New File
+
+commit b3add195925d7e5ffc6307622a1aeb836f17b7d0
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:04:21 2023 +0000
+
+    Upload New File
+
+commit 2892a069795f740631870b99415f192cd8435597
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:04:09 2023 +0000
+
+    Upload New File
+
+commit fad158bfe1ae7cb8a07ff0177ba0d49184e6d655
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:03:58 2023 +0000
+
+    Upload New File
+
+commit 9955be10f26dbd4ac592af9e81eb0dc428c18392
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:03:45 2023 +0000
+
+    Upload New File
+
+commit c98b1ae41cc9411ccac9ec084c4acd685c847776
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:03:31 2023 +0000
+
+    Upload New File
+
+commit 586f1a0d1c7bc8b9746774b50179845696cbe3a1
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:03:19 2023 +0000
+
+    Upload New File
+
+commit e6e099540044a422794ddb32add4ab2739333f74
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:03:07 2023 +0000
+
+    Upload New File
+
+commit 96efa86fea1d9ce552787582bd91a7c613431f85
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:02:50 2023 +0000
+
+    Upload New File
+
+commit 5e85c8b18e57c1356e36430602ef4cf46d42ac98
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:02:35 2023 +0000
+
+    Upload New File
+
+commit b42608f829ae33f6ac0e3bb2c187c072650a25dd
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:02:20 2023 +0000
+
+    Upload New File
+
+commit 88d84b570e87895f273727f84d5f30bdcfd98cd6
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:01:57 2023 +0000
+
+    Upload New File
+
+commit efade7682b3bf5d5ea429960674f5e841210840f
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:01:22 2023 +0000
+
+    Add a new directory for images
+
+commit 03dff64c79c76acc18809d64a6d7e193645bed4b
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:00:50 2023 +0000
+
+    Upload New CSS File
+
+commit bc5b35eb2fa67447efd0ca1e8b3820f23c7c3240
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 02:00:33 2023 +0000
+
+    Add a new directory for CSS
+
+commit 55930c9fb89dd80ffa7ae3e517a53db6a9e75b53
+Author: Shane Foshee <sfoshee@wgu.edu>
+Date:   Mon Apr 10 01:22:45 2023 +0000
+
+    Initial commit
